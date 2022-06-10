@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <layer-list>
+            <item>
+                <shape>
+                    <solid android:color="@color/tab_checked2"/>
+                </shape>
+            </item>
+            <item android:bottom="3dp">
+                <shape>
+                    <solid android:color="@color/home_title_background"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <solid android:color="@color/tab_not_checked"/>
+                </shape>
+            </item>
+            <item android:bottom="3dp">
+                <shape>
+                    <solid android:color="@color/home_title_background"/>
+                </shape>
+            </item>
+        </layer-list>
+
+    </item>
+</selector>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <GridView
+        android:id="@+id/config_gv"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:layout_marginTop="5dp"
+        android:horizontalSpacing="5dp"
+        android:numColumns="4"
+        android:verticalSpacing="5dp" />
+
+    <Button
+        android:id="@+id/btn_help"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/grid_item_background"
+        android:gravity="center"
+        android:text="帮助中心"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/grid_item_background"
+        android:gravity="center"
+        android:text="用户反馈"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_more"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/grid_item_background"
+        android:gravity="center"
+        android:text="关于"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/grid_item_background"
+        android:gravity="center"
+        android:text="退出登录"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+</LinearLayout>

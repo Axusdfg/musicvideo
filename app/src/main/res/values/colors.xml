@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_200">#e8fff3</color>
+    <color name="blue_500">#97d8c4</color>
+    <color name="blue_700">#6b9ac4</color>
+    <color name="blue_900">#3f58ad</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="HomeActivity_Background">#DD2121</color>
+    <color name="tab_checked">#FFFFFF</color>				<!-- 主页滑动时被选中的tab的标题和下滑横杠颜色 -->
+    <color name="tab_not_checked">#CAB605</color>
+    <color name="home_title_background">#301A12</color>
+    <color name="button_background">#DD2121</color>
+    <color name="grid_item_background">#80a5a09d</color>
+    <color name="home_bottom_background">#FFFFFF</color>
+
+    <color name="home_title_background2">#869daf</color>
+    <color name="home_bottom_background2">#889fb5c9</color>
+    <color name="grid_item_background2">#807895af</color>
+    <color name="tab_checked2">#FAFA40</color>
+    <color name="tab_not_checked2">#778899</color>
+</resources>
