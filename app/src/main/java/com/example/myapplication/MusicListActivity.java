@@ -189,7 +189,7 @@ public class MusicListActivity extends Activity {
         return df.format(min) + ":" + df.format(sec);
     }
 
-    private void initDate() {
+    private void initDate() {//
 //        list = new ArrayList<>();
 //        for (int i = 0; i < 10; i++) {
 //            Music item = new Music();
